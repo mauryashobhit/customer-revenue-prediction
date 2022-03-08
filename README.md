@@ -8,6 +8,8 @@ This project predict the customer purchase completion i.e whether a cusotmer wil
 
 
 A deep learning model 
+
+
 tensorflow = Deep learning framework
 
 
